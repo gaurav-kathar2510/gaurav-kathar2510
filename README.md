@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kathar</h1>
 <h3 align="center">I can think, Analyze and Code</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Software Developer
 
-- 💬 Ask me about **C++, Data Structure, Algorithms**
+- 💬 Ask me about **C++, Data Structure, Algorithms, React, javaScript, fast_api, Python**
 
 - 📫 How to reach me **gkathar221@gmail.com**
 
